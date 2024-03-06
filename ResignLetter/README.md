@@ -22,5 +22,5 @@
     - Upon execution, the processes of the malware will showed and there is flag in line11
 ![Alt text](image-2.png)
 
-4. **Decrypt flah**
+4. **Decrypt flag**
     - The showing flag is in base64 format and decrypt it, the flag is found
