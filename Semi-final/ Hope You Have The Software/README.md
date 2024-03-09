@@ -1,4 +1,4 @@
-![image](https://github.com/NoobplayerXD0903/rentasCTF_writeUp/assets/154965035/aa8dd7c3-6eec-4d2f-ba80-37d4a788c016)## Challenge Information
+## Challenge Information
 **Name**: I Hope You Have The Software
 
 **Category**: Network
